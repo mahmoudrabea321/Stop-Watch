@@ -36,12 +36,12 @@ It allows users to **start, pause, reset, and track elapsed time** easily.
    cd stopwatch-app
 ````
 
-2. **Run the app**
+2. ## 🚀 Live Demo
+🔗 [View on Vercel](https://stop-watch-gamma-peach.vercel.app/)
 
-   * Open `index.html` in your browser 🌍
-   * No setup or installation needed
 
 ---
+
 
 ## 📂 Folder Structure
 
@@ -71,4 +71,5 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
