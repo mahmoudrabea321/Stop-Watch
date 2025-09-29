@@ -53,14 +53,6 @@ stopwatch-app/
 │-- README.md
 ```
 
----
-
-## 📸 Screenshots
-
-*Add a screenshot or GIF of the stopwatch running.*
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
@@ -71,5 +63,6 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
 
